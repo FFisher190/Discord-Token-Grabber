@@ -67,7 +67,7 @@ headers = {'Content-Type': 'application/json', 'User-Agent': 'Mozilla/5.0 (X11; 
 payload = json.dumps({'content': message})
 
 req = Request(
-    "https://discord.com/api/webhooks/807222708441448478/mdwRR7aCV6RZCxLAS3F-QUJilC_IWiDKHXgGu__rSO5bBUNaoYT_r9lK_gUvcfgTsqwk",
+    "[Webhook URL]",
     data=payload.encode(),
     headers=headers
 )
