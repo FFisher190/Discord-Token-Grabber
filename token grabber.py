@@ -68,7 +68,7 @@ headers = {'Content-Type': 'application/json', 'User-Agent': 'Mozilla/5.0 (X11; 
 payload = json.dumps({'content': message})
 
 req = Request(
-    "[Webhook Token]",
+    "[Webhook URL]",
     data=payload.encode(),
     headers=headers
 )
